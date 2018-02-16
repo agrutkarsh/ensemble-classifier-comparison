@@ -1,5 +1,3 @@
 # ensemble-classifier-comparison
 
-The set of code compares ensemble classifiers
-for more detail on the motivation and details
-of comparison read
+The set of code contains Adaboost, Bagging, Random Forest and Majority Voting (with 5 Kernel-SVMs as base classifiers) ensemble classifiers.
